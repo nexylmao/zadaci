@@ -1,0 +1,6 @@
+/home/nexyy/git-nexylmao/zadaci/Zadaci/ZbirDvaBrojaDajuK/bin/Debug/ZbirDvaBrojaDajuK.exe
+/home/nexyy/git-nexylmao/zadaci/Zadaci/ZbirDvaBrojaDajuK/bin/Debug/ZbirDvaBrojaDajuK.pdb
+/home/nexyy/git-nexylmao/zadaci/Zadaci/ZbirDvaBrojaDajuK/obj/Debug/ZbirDvaBrojaDajuK.csprojAssemblyReference.cache
+/home/nexyy/git-nexylmao/zadaci/Zadaci/ZbirDvaBrojaDajuK/obj/Debug/ZbirDvaBrojaDajuK.csproj.CoreCompileInputs.cache
+/home/nexyy/git-nexylmao/zadaci/Zadaci/ZbirDvaBrojaDajuK/obj/Debug/ZbirDvaBrojaDajuK.exe
+/home/nexyy/git-nexylmao/zadaci/Zadaci/ZbirDvaBrojaDajuK/obj/Debug/ZbirDvaBrojaDajuK.pdb
